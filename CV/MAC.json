@@ -1,17 +1,353 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
-  "settings": {
-    "language": "EN",
-    "MACVersion": "0.3"
-  },
   "aboutMe": {
+    "interestingFacts": [],
     "profile": {
-      "name": "Artem",
-      "surnames": "Grigoryants",
-      "title": "Senior Software Engineer / Team Lead C#, ASP.NET Core",
-      "location": {
-        "notes": "Armenia"
+      "contact": {
+        "contactMails": [
+          "artem3.1416@gmail.com"
+        ]
+      },
+      "name": "Grigoryants",
+      "surnames": "Artem",
+      "title": ""
+    },
+    "recommendations": [],
+    "relevantLinks": [
+      {
+        "URL": "https://www.upwork.com/freelancers/~018b64681fde348115",
+        "type": "website"
       }
-    }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "ServiceTitan"
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": "\nArchitect, design, and implement user‐facing features end‐to‐end. Work with product managers, designers, and engineers to prototype and implement product features. Communicate effectively with other engineers, product managers, customers, and partners. 60% development / 40% working on requirements, mentorship, supervision.\nWorked on one of the important and critical parts of the application ‐ billing, later was leading the process of company's custom written solution integration with Salesforce."
+              }
+            ],
+            "competences": [],
+            "name": "Senior Software Engineer",
+            "startDate": "2020-02-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "StockM integraiton platform for marketplaces"
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": "\nI've developed a platform allowing sellers on different Russian marketplaces ﴾like Ozon and Wildberries﴿ register, enter credentials for getting information about their stocks/sales/returns/etc in marketplace and report it to StockM inventory management system automatically based on configurable schedule.\nI was responsible for all devops and backend related part and have been reviewing frontend code as well."
+              }
+            ],
+            "competences": [],
+            "finishDate": "2021-12-01",
+            "name": "Team Lead",
+            "startDate": "2021-04-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SalonUltimate"
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": "\nI've been working on several successfully production reached products both for internal and end clients. Mostly implementing web api restfull services and architecture with complex business logic, infrastructure tasks, resolving devops related issues and databases management."
+              }
+            ],
+            "competences": [],
+            "finishDate": "2020-01-01",
+            "name": "Senior Software Engineer",
+            "startDate": "2018-04-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Redeem"
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": "\nImproving enterprise web based CRM and customer applications stack, implementing additional modules, APIs integration, developing restfull APIs, database queries optimization, implementing cron services"
+              }
+            ],
+            "competences": [],
+            "finishDate": "2018-08-01",
+            "name": "Senior .Net Developer / Team Lead",
+            "startDate": "2016-08-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Vuukle"
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": "\nHigh loaded audience engagement platform. I was leading the process of porting existing asp.net app to .net core web api, configuring environment in the cloud and deploying, automating ci/cd, etc Also was responsible for all devops and backend queries related to microservices including scalable realtime websockets based service with up to 100k concurrent websocket connections backed with singlestore ﴾formely memsql﴿ and appengine application loaded with multiple thounsands rps based on python ﴾flask﴿ + pubsub + bigquery"
+              }
+            ],
+            "competences": [],
+            "finishDate": "2018-04-01",
+            "name": "Senior Software Engineer",
+            "startDate": "2017-04-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Metallinvestbank"
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [],
+            "finishDate": "2016-08-01",
+            "name": "ASP.NET MVC Angular 1 developer",
+            "startDate": "2015-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Databoom"
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": "\nBackend as a service project. I was responsible for account front end part."
+              }
+            ],
+            "competences": [],
+            "finishDate": "2014-12-01",
+            "name": "Frontend Developer",
+            "startDate": "2014-09-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Computer Art Technologies"
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": "\nDelivery Application. Cross platform hybrid application with LAMP stack based API as backend structure providing automatization for delivery company using Ionic ﴾Cordova + AngularJS﴿, HTML5, CSS3. Video web server. AngularJS Single Page Application with NodeJS + MongoDB backend structure providing local video storage with simple auth and rating logics. Angular, HTML, CSS, Twitter Bootstrap, Responsive design."
+              }
+            ],
+            "competences": [],
+            "finishDate": "2014-08-01",
+            "name": "Full Stack Developer with PHP, Angular1",
+            "startDate": "2014-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Masteralgebra"
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": "\nCreating algebra problems generation/validation engine, integration with drupal framework, writing latex generator scripts"
+              }
+            ],
+            "competences": [],
+            "finishDate": "2013-11-01",
+            "name": "Junior web developer",
+            "startDate": "2013-01-01"
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "URL": "https://lighter‐app.buzz",
+          "description": "\nLighterApp is an application allowing people to invite others and participate in social activities nearby.\nI'm responsible for all infrastructure and backend application related queries.\n\f",
+          "name": "LighterApp",
+          "relatedCompetences": [
+            {
+              "name": "node.js",
+              "type": "technology"
+            },
+            {
+              "name": "mongodb",
+              "type": "technology"
+            },
+            {
+              "name": "typescript",
+              "type": "technology"
+            },
+            {
+              "name": "mongoose",
+              "type": "technology"
+            },
+            {
+              "name": "cloudflare",
+              "type": "technology"
+            },
+            {
+              "name": "nginx",
+              "type": "technology"
+            },
+            {
+              "name": "docker‐compose",
+              "type": "technology"
+            },
+            {
+              "name": "firebase",
+              "type": "technology"
+            },
+            {
+              "name": "digital‐ocean",
+              "type": "technology"
+            }
+          ],
+          "type": "sideProject"
+        }
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "c#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "typescript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".net-core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "reactjs",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "nestjs",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "sql",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "sql-server",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "postgresql",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "asp.net-core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "kanban",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jira",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "degreeAchieved": true,
+        "description": "",
+        "finishDate": "2016-01-01",
+        "institution": {
+          "name": "National Research University Higher School of Economics"
+        },
+        "name": "B.S. Business‐Informatics",
+        "startDate": "2013-01-01",
+        "studyType": "officialDegree"
+      },
+      {
+        "degreeAchieved": true,
+        "description": "\nSep 2002 → Jul 2012 School 21 ﴾Yerevan, Armenia﴿",
+        "finishDate": "2013-01-01",
+        "institution": {
+          "name": "Moscow Institute of Physics and Technology"
+        },
+        "name": "1st year student",
+        "startDate": "2012-01-01",
+        "studyType": "officialDegree"
+      }
+    ]
+  },
+  "settings": {
+    "MACVersion": "0.3",
+    "language": "ES",
+    "lastUpdate": "2022-02-28"
   }
 }
