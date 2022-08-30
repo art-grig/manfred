@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Artem",
+      "surnames": "Grigoryants",
+      "title": "Senior Software Engineer / Team Lead C#, ASP.NET Core",
+      "location": {
+        "notes": "Armenia"
+      }
+    }
+  }
+}
